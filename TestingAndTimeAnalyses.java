@@ -1,5 +1,3 @@
-//Tucker Bullara
-//C00149016
 //CMPS 261
 //Program Description: implementations of various sorting methods
 /*
